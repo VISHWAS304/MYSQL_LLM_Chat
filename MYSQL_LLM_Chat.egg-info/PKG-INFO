@@ -1,0 +1,29 @@
+Metadata-Version: 2.2
+Name: MYSQL_LLM_Chat
+Version: 0.1
+Summary: A package for managing obesity prediction data and configurations in database with LLM and Agentic AI
+Home-page: https://github.com/VISHWAS304/MYSQL_LLM_Chat
+Author: VISHWAS BHUSHAN BASURU
+Author-email: vishwasbhushanb@gmail.com
+Classifier: Programming Language :: Python :: 3.12
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: pymysql
+Requires-Dist: pyyaml
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# MYSQL_LLM_Chat
+
+sk-5e7aa95f32454c4bafbe1a732e719184 Deepseek API key
